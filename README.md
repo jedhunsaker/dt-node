@@ -6,5 +6,5 @@ TypeScript Definitions for Node from DefinitelyTyped
 ## Installation
 
 ```
-$ bower install --save dt-node
+$ bower install --save dt-node-jedmao
 ```
