@@ -1,6 +1,6 @@
 {
-  "name": "dt-node--jedmao",
-  "version": "0.10.1",
+  "name": "dt-node-jedmao",
+  "version": "0.11.13",
   "ignore": [
     "**/.*"
   ]
